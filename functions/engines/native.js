@@ -1,4 +1,4 @@
-const pdfjsLib = require('pdfjs-dist/legacy/build/pdf.js');
+const pdfjsLib = require('pdfjs-dist/build/pdf.js');
 const NodeCanvasFactory = require('./NodeCanvasFactory');
 const fs = require('fs-extra');
 const Canvas = require('canvas');
